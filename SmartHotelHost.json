@@ -39,7 +39,7 @@
     "dmsSubnetName": "DMS",
     "customScriptFolder": "./sept-2021/",
     "customScriptUriScriptFileName": "BootstrapSmartHotelHost.ps1",
-    "customScriptUri": "https://solliancepublicdata.blob.core.windows.net/mcw-lineofbusiness/BootstrapSmartHotelHost.ps1"
+    "customScriptUri": "https://raw.githubusercontent.com/yevheniiskakun/AAT_additional_exercise/main/BootstrapSmartHotelHost.ps1"
   },
   "resources": [
     {
